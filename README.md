@@ -4,7 +4,7 @@ I'm a CS student specializing in Python development.
 
 I wish to learn a lot of stuff, but I’m focusing on web development for now.
 
-- 🔭 I’m currently working on a secret web app (in production soon hopefully)
+- 🔭 I will soon be working on a secret web app (in production soon hopefully)
 - 🌱 I’m currently learning Django
 
 <!--
