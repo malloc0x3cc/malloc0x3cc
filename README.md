@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a CS student specializing in Python development.
-
-I wish to learn a lot of stuff, but I’m focusing on web development for now.
+I'm a CS student/Apprentice developer.
 
 <!--
 **malloc0x3cc/malloc0x3cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
