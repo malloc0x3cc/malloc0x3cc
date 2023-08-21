@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineering student/apprentice.
+I'm a software engineering student.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=malloc0x3cc&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malloc0x3cc)](https://github.com/anuraghazra/github-readme-stats) -->
