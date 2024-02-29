@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a software engineering student.
+I'm a software engineer and student.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=malloc0x3cc&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=malloc0x3cc&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malloc0x3cc)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **malloc0x3cc/malloc0x3cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
