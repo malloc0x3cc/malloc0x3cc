@@ -3,7 +3,7 @@ I'm a software developer and student passionate about the "under the hood" mecha
 
 ---
 
-### 🎓 Education & Path
+### 🎓 Current Education & Path
 * **42 Paris (Common Core)**: Immersive project-based software engineering, focusing on C, Unix systems, and memory management.
 * **Sorbonne Université (Evening Classes)**: Strengthening theoretical foundations in **Mathematics, Physics, and Chemistry**.
 
