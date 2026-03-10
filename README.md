@@ -1,5 +1,5 @@
-# Hi there, I'm Mallone DELWAULLE 👋
-A software developer and student passionate about the "under the hood" mechanics of computing. I am currently bridging the gap between high-level application development, rigorous science, and low-level system engineering.
+# Hi there 👋
+I'm a software developer and student passionate about the "under the hood" mechanics of computing. I am currently bridging the gap between high-level application development, rigorous science, and low-level system engineering.
 
 ---
 
