@@ -3,7 +3,7 @@ I'm a software developer and student passionate about the "under the hood" mecha
 
 ---
 
-### 🎓 Current Education & Path
+### 🎓 Current Education
 * **42 Paris (Common Core)**: Immersive project-based software engineering, focusing on C, Unix systems, and memory management.
 * **Sorbonne Université (Evening Classes)**: Strengthening theoretical foundations in **Mathematics, Physics, and Chemistry**.
 
@@ -27,9 +27,9 @@ I also have a long-standing passion for retro computing and gaming. Having repai
 
 ### 🧰 Tech Stack
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 [![Assembly](https://img.shields.io/badge/Assembly-007AAC?logo=assemblyscript&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 ---
